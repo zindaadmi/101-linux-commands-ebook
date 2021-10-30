@@ -66,6 +66,9 @@ $ spd-say [options] "some text"
 
        -h, --help
               Print this info
+       
+       -a, --ask
+             print ask what you want? 
 ```
 
 ### Examples :
